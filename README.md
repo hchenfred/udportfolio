@@ -3,7 +3,7 @@
 - inline css
 - make javascript async
 - remove google fonts
-
+- [compress images](https://discussions.udacity.com/t/compressing-images-with-imagemagick/42864/13) 
 
 ## Website Performance Optimization portfolio project
 
