@@ -1,6 +1,9 @@
 ## Steps taken to for web performance Optimization
 - add media query <link href="print.css" rel="stylesheet" media="print">
 - inline css
+- make javascript async
+- remove google fonts
+
 
 ## Website Performance Optimization portfolio project
 
